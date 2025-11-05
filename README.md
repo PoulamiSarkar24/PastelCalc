@@ -25,3 +25,7 @@ It features a **soft pastel aesthetic**, smooth button animations, and keyboard 
 | HTML | Structure |
 | CSS | Styling & Pastel Theme |
 | JavaScript | Calculator Logic & Keyboard Support |
+
+
+### 🔗 Live Demo
+https://PoulamiSarkar24.github.io/PastelCalc/
