@@ -28,4 +28,4 @@ It features a **soft pastel aesthetic**, smooth button animations, and keyboard 
 
 
 ### 🔗 Live Demo
-https://PoulamiSarkar24.github.io/PastelCalc/
+https://poulamisarkar24.github.io/PastelCalc/
